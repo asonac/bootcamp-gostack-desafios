@@ -25,13 +25,13 @@ Whismsical & Figma
 ### O cronograma diário
 
 <p align="center">
-  <img width="80%" src="./assets/cronograma-diario.png">
+  <img width="80%" src="https://github.com/asonac/bootcamp-gostack-desafios/blob/master/desafio-01/assets/cronograma-diario.png">
 </p>
 
 ### O cronograma semanal
 
 <p align="center">
-  <img width="80%" src="./assets/cronograma-semanal.png">
+  <img width="80%" src="https://github.com/asonac/bootcamp-gostack-desafios/blob/master/desafio-01/assets/cronograma-semanal.png">
 </p>
 
 
