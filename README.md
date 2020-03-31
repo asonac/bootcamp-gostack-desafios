@@ -17,9 +17,13 @@ Montei o calendario pensando como será quando voltar a trabalhar (apesar que ac
 
 Vou aproveitar o pouco de tempo livre que tenho nessas férias para modelar meu projeto pessoal utilizando as ferramentas indicadas
 no módulo de 'Aquecendo os motores':
+
 Para inspiração do layout:
+
 Pinterest & Dribbble
+
 Para definir o fluxo e modular:
+
 Whismsical & Figma
 
 ### O cronograma diário
